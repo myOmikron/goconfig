@@ -1,3 +1,3 @@
-module github.com/myOmikron/staticconfig
+module github.com/myOmikron/goconfig
 
 go 1.17
